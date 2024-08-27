@@ -1,1 +1,5 @@
 /readme.txt
+_build/
+deps/
+.env
+mix.lock
